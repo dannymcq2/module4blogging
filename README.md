@@ -84,4 +84,4 @@ Light mode and dark mode buttons (emoji) to switch. Back button on blog section 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%
 ## Tests
 
-Many tests were done to assure the application is good to go
+Many tests were done to assure the application is fully functionable.
