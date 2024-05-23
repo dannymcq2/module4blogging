@@ -31,8 +31,10 @@ On the first page you are given a form to enter your user, title and content to 
   ![ScreenShot](Assets/images/Screenshot-darkform.png)
     
     ![ScreenShot](Assets/images/Screenshot-lightblog.png)
+
+![ScreenShot](Assets/images/Screenshot-lightform.png)
     
-    ![ScreenShot](Assets/images/Screenshot-lightform.png)
+    
     
 
 
