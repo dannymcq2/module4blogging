@@ -26,7 +26,7 @@ On the first page you are given a form to enter your user, title and content to 
 
 
 
-    ![image](./Assets/images/Screenshot-darkblog.png)
+    ![image](Assets/images/Screenshot-darkblog.png)
     
     ![image](./Assets/images/Screenshot-darkform.png)
     
