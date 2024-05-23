@@ -28,7 +28,7 @@ On the first page you are given a form to enter your user, title and content to 
 
 ![image] ([/module4blogging/blob/main/Assets/images/Screenshot-darkblog.png]
     
-  ![ScreenShot](Screenshot-darkform.png)
+  ![ScreenShot](Assets/images/Screenshot-darkform.png)
     
     ![image](./Assets/images/Screenshot-lightblog.png)
     
