@@ -24,7 +24,6 @@ No need to install. The page is accessible to use on any browser.
 
 On the first page you are given a form to enter your user, title and content to make a blog post. You then have a submit button to submit. Once submitted, you will be directed to the second page where you can now see more posts. On both pages, there is a button on the top right (emojis). You may hit the buttons to toggle light mode and dark mode. On the second page, you are given a back page on top right to go back to the first page to make another post.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![alt text](Assets/images/Screenshot-darkblog.png)
