@@ -1,0 +1,47 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+
+label, input, textarea, button {
+    margin: 5px 0;
+}
+
+#error-message {
+    color: red;
+}
+h2 { text-align: center;}
+input[type="text"],
+textarea {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px; 
+    resize: none;
+}
+label {
+    display: block; 
+    margin-bottom: 5px; 
+}
+button[type="submit"] {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: transparent; 
+    color: rgb(255, 255, 255); 
+    cursor: pointer;
+    background-color: black;
+}
+
+#toggle-mode {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 999; 
+        background:none;
+        border:none;
+        font-size: 30px;
+}
+

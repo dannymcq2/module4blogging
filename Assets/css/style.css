@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+}
+
+label, input, textarea, button {
+    margin: 10px 0;
+}
+
+#error-message {
+    color: red;
+}
+
+#posts-page {
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+body.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.comment-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+
+/* Newer Mobile */
+@media only screen 
+  and ((device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 2)),
+  ((device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)) {}
+
+/* Older Mobile */
+@media only screen 
+  and ((device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)),
+  ((device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)) {}
+
+/* Older Mobile */
+@media only screen 
+  and ((device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)),
+  ((max-device-width: 375px) and (-webkit-device-pixel-ratio: 2)) {}
+
+/* Tablets */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) {}
+
+/* LapTops */
+@media only screen 
+  and (min-device-width: 1280px) 
+  and (max-device-width: 1440px) {}
+
+/* DeskTops */
+@media only screen 
+  and (min-device-width: 1440px) {}
+

@@ -1,0 +1,50 @@
+
+.bold-and-shifted {
+    font-weight: bold;
+    margin-left: 20px; 
+}
+.post-container {
+    border: 1px solid black;
+    border-radius: 5px; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+}
+
+#blog-posts {
+    width: 100%; 
+    max-width: 1400px; 
+    margin: 0 auto;
+    padding: 10px;
+    margin-left: 0;
+}
+h3 { 
+    padding-left: 10px;
+}
+#backButton {
+    position: absolute;
+    top: 10px;
+    right: 200px; 
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 998; 
+    transition: background-color 0.3s ease; 
+}
+
+#backButton:hover {
+    background-color: #0056b3;
+}
+
+#toggle-mode {
+    position: absolute;
+    top: 10px;
+    right: 100px;
+    z-index: 999; 
+        background:none;
+        border:none;
+        font-size: 30px;
+}
