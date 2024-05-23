@@ -26,7 +26,7 @@ On the first page you are given a form to enter your user, title and content to 
 
 
 
-    ![image](https://github.com/dannymcq2/module4blogging/blob/main/Assets/images/Screenshot-darkblog.png)
+![image] ([/module4blogging/blob/main/Assets/images/Screenshot-darkblog.png]
     
     ![image](./Assets/images/Screenshot-darkform.png)
     
