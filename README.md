@@ -26,10 +26,10 @@ On the first page you are given a form to enter your user, title and content to 
 
 
 
-    ![alt text](/Assets/images/Screenshot-darkblog.png)
-    ![alt text](/Assets/images/Screenshot-darkform.png)
-    ![alt text](/Assets/images/Screenshot-lightblog.png)
-    ![alt text](/Assets/images/Screenshot-lightform.png)
+    ![alt text](./Assets/images/Screenshot-darkblog.png)
+    ![alt text](./Assets/images/Screenshot-darkform.png)
+    ![alt text](./Assets/images/Screenshot-lightblog.png)
+    ![alt text](./Assets/images/Screenshot-lightform.png)
     
 
 
