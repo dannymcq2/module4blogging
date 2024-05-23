@@ -26,13 +26,13 @@ On the first page you are given a form to enter your user, title and content to 
 
 
 
-![image] ([/module4blogging/blob/main/Assets/images/Screenshot-darkblog.png]
+![ScreenShot](Assets/images/Screenshot-darkblog.png)
     
   ![ScreenShot](Assets/images/Screenshot-darkform.png)
     
-    ![image](./Assets/images/Screenshot-lightblog.png)
+    ![ScreenShot](Assets/images/Screenshot-lightblog.png)
     
-    ![image](./Assets/images/Screenshot-lightform.png)
+    ![ScreenShot](Assets/images/Screenshot-lightform.png)
     
 
 
